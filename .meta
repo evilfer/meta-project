@@ -1,3 +1,5 @@
 {
- "projects": {}
+  "projects": {
+    "meta-part1": "git@github.com:evilfer/meta-part1.git"
+  }
 }
